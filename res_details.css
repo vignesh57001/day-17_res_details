@@ -1,0 +1,14 @@
+.card-title1{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+.card{
+   
+    text-align: center;
+    background: linear-gradient(to right,rgb(240, 235, 235),rgb(90, 87, 87))
+}
+body{
+    background-color: rgb(13, 55, 79);
+
+}
